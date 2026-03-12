@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "DROP1",
+    "description": "",
+    "price": 50,
+    "category": "camisetas",
+    "images": [
+      "https://cdn.jsdelivr.net/gh/hermocreationsweb/galeria_web@main/productos_pasados/1773338956056_1755967560581_d3_p3_2.jpg",
+      "https://cdn.jsdelivr.net/gh/hermocreationsweb/galeria_web@main/productos_pasados/1773338957527_1755967715070_d3_p1_1.jpg",
+      "https://cdn.jsdelivr.net/gh/hermocreationsweb/galeria_web@main/productos_pasados/1773338958248_1755967715069_d3_p1_2.jpg",
+      "https://cdn.jsdelivr.net/gh/hermocreationsweb/galeria_web@main/productos_pasados/1773338959316_1755967596188_d3_p2_2.jpg",
+      "https://cdn.jsdelivr.net/gh/hermocreationsweb/galeria_web@main/productos_pasados/1773338960435_1755967596183_d3_p2_1.jpg"
+    ],
+    "id": "arch-1773338970849",
+    "active": true,
+    "stock": 0,
+    "isArchived": true,
+    "created_at": "2026-03-12T18:09:30.849Z"
+  }
+]
