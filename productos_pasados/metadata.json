@@ -1,16 +1,1 @@
-[
-  {
-    "name": "Polo gatos",
-    "description": "Negro. Talla M",
-    "price": 50,
-    "category": "camisetas",
-    "id": "arch-1773336865410",
-    "images": [
-      "https://cdn.jsdelivr.net/gh/hermocreationsweb/galeria_web@main/productos_pasados/1773336863944_drop1_product_2.png"
-    ],
-    "active": true,
-    "stock": 0,
-    "isArchived": true,
-    "created_at": "2026-03-12T17:34:25.410Z"
-  }
-]
+[]
